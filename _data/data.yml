@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Loren Anderson
-    tagline: Principal Consultant - Senior Software Engineer, TPM, BA
+    name: Gary Rubens
+    tagline: Business Development, Director
     avatar: profile.png
     
     # Sidebar links
-    email: loren@goinnovise.com
+    email: garyjrubens@gmail.com
     phone: 425-941-5979
     website: goinnovise.com
-    linkedin: loren-anderson
-    github: TheOfficialLoren
+    linkedin: garyrubens
+    #github: TheOfficialLoren
     gitlab:
     bitbucket:
     twitter:
-    stack-overflow: 1121638/lorengphd
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -38,26 +38,17 @@ sidebar:
       - item: Travel
         link:
 
-      - item: Gaming
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Loren is a Senior Software Engineer with 10+ years of experience successfully
-      leading teams and educating businesses on development methodologies and best
-      practices. With his extensive knowledge of a wide array of software technologies,
-      languages and frameworks, Loren has assumed many different roles throughout his
-      career such as Systems Architect, Project Manager and Business Analyst, while
-      simultaneously programming and remaining a Senior Software Engineer. He excels
-      at quickly understanding the architectural landscape of businesses to advise and
-      bridge the gap between technical and non-technical teams to achieve business
-      goals, which is why he continues to be effective in the consulting industry.
+      Gary is a Serial Entrepreneur, Start-Up Investor, Philanthropist and Real Estate Developer based in the Seattle area.
+      Having spent many years working with software developers on his various technology startups, Gary brings a valuable client facing approach to software development projects.
 
 
 education:
-    - degree: General Studies - Focus on Business
-      university: Western Washington University
+    - degree: Business
+      university: Washington State University
 
 experiences:
     - role: Senior Software Engineer
